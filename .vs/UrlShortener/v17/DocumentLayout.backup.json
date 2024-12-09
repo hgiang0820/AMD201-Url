@@ -1,0 +1,416 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenerservice\\controllers\\urlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\controllers\\urlscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472EB91E-C2FA-4EF9-A417-29B3382A95DC}|client\\client.esproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{472EB91E-C2FA-4EF9-A417-29B3382A95DC}|client\\client.esproj|solutionrelative:client\\src\\app.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472EB91E-C2FA-4EF9-A417-29B3382A95DC}|client\\client.esproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\client\\client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{472EB91E-C2FA-4EF9-A417-29B3382A95DC}|client\\client.esproj|solutionrelative:client\\client.esproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472EB91E-C2FA-4EF9-A417-29B3382A95DC}|client\\client.esproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\client\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{472EB91E-C2FA-4EF9-A417-29B3382A95DC}|client\\client.esproj|solutionrelative:client\\services\\api.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{472EB91E-C2FA-4EF9-A417-29B3382A95DC}|client\\client.esproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{472EB91E-C2FA-4EF9-A417-29B3382A95DC}|client\\client.esproj|solutionrelative:client\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenerservice\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\models\\url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C4DAC3-4402-4902-BB00-B4C1056C5053}|UrlShortenerGateway\\UrlShortenerGateway.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenergateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6C4DAC3-4402-4902-BB00-B4C1056C5053}|UrlShortenerGateway\\UrlShortenerGateway.csproj|solutionrelative:urlshortenergateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C4DAC3-4402-4902-BB00-B4C1056C5053}|UrlShortenerGateway\\UrlShortenerGateway.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenergateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6C4DAC3-4402-4902-BB00-B4C1056C5053}|UrlShortenerGateway\\UrlShortenerGateway.csproj|solutionrelative:urlshortenergateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\authenticationservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\node_modules\\axios\\lib\\core\\Axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:node_modules\\axios\\lib\\core\\Axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenerservice\\urlshortenerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\urlshortenerservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenerservice\\migrations\\20241208090502_url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\migrations\\20241208090502_url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenerservice\\data\\urlshortenerservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D8BED5-67BE-4F62-94BC-830A80F8A090}|UrlShortenerService\\UrlShortenerService.csproj|solutionrelative:urlshortenerservice\\data\\urlshortenerservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2)\\UrlShortenerService\\Migrations\\20241208075433_url.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\authenticationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\authenticationservice\\data\\authenticationservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\data\\authenticationservicecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6C4DAC3-4402-4902-BB00-B4C1056C5053}|UrlShortenerGateway\\UrlShortenerGateway.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\urlshortenergateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F6C4DAC3-4402-4902-BB00-B4C1056C5053}|UrlShortenerGateway\\UrlShortenerGateway.csproj|solutionrelative:urlshortenergateway\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\huong giang\\documents\\amd\\urlshortener - copy (2) - copy - copy\\authenticationservice\\migrations\\20241208071218_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B4C3EF2-1D1F-404B-8C07-2196A5E36DB7}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\migrations\\20241208071218_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UrlsController.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Controllers\\UrlsController.cs",
+              "RelativeDocumentMoniker": "UrlShortenerService\\Controllers\\UrlsController.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Controllers\\UrlsController.cs",
+              "RelativeToolTip": "UrlShortenerService\\Controllers\\UrlsController.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAADwv6EAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:32:52.779Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "client.esproj",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\client\\client.esproj",
+              "RelativeDocumentMoniker": "client\\client.esproj",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\client\\client.esproj",
+              "RelativeToolTip": "client\\client.esproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-09T07:40:10.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\client\\src\\main.js",
+              "RelativeDocumentMoniker": "client\\src\\main.js",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\client\\src\\main.js",
+              "RelativeToolTip": "client\\src\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T07:39:56.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\client\\src\\App.vue",
+              "RelativeDocumentMoniker": "client\\src\\App.vue",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\client\\src\\App.vue",
+              "RelativeToolTip": "client\\src\\App.vue",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAIwKUBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2024-12-09T07:37:13.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "api.js",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\client\\services\\api.js",
+              "RelativeDocumentMoniker": "client\\services\\api.js",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\client\\services\\api.js",
+              "RelativeToolTip": "client\\services\\api.js",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T07:40:46.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AuthenticationService\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAuwCgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:54:47.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Url.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Models\\Url.cs",
+              "RelativeDocumentMoniker": "UrlShortenerService\\Models\\Url.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Models\\Url.cs",
+              "RelativeToolTip": "UrlShortenerService\\Models\\Url.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:30:49.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerGateway\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortenerGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerGateway\\Program.cs",
+              "RelativeToolTip": "UrlShortenerGateway\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAEcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:43:43.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "UrlShortenerGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerGateway\\appsettings.json",
+              "RelativeToolTip": "UrlShortenerGateway\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T14:56:18.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Axios.js",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\node_modules\\axios\\lib\\core\\Axios.js",
+              "RelativeDocumentMoniker": "node_modules\\axios\\lib\\core\\Axios.js",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\node_modules\\axios\\lib\\core\\Axios.js",
+              "RelativeToolTip": "node_modules\\axios\\lib\\core\\Axios.js",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwEAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-08T17:31:26.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241208090502_url.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Migrations\\20241208090502_url.cs",
+              "RelativeDocumentMoniker": "UrlShortenerService\\Migrations\\20241208090502_url.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Migrations\\20241208090502_url.cs",
+              "RelativeToolTip": "UrlShortenerService\\Migrations\\20241208090502_url.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:05:02.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Program.cs",
+              "RelativeDocumentMoniker": "UrlShortenerService\\Program.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Program.cs",
+              "RelativeToolTip": "UrlShortenerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T15:27:41.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UrlShortenerService.csproj",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\UrlShortenerService.csproj",
+              "RelativeDocumentMoniker": "UrlShortenerService\\UrlShortenerService.csproj",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\UrlShortenerService.csproj",
+              "RelativeToolTip": "UrlShortenerService\\UrlShortenerService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-07T15:30:27.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\appsettings.json",
+              "RelativeDocumentMoniker": "UrlShortenerService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\appsettings.json",
+              "RelativeToolTip": "UrlShortenerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T15:33:34.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UrlShortenerServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Data\\UrlShortenerServiceContext.cs",
+              "RelativeDocumentMoniker": "UrlShortenerService\\Data\\UrlShortenerServiceContext.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Data\\UrlShortenerServiceContext.cs",
+              "RelativeToolTip": "UrlShortenerService\\Data\\UrlShortenerServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T09:26:42.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UrlShortenerService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UrlShortenerService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T15:40:50.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20241208075433_url.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2)\\UrlShortenerService\\Migrations\\20241208075433_url.cs",
+              "RelativeDocumentMoniker": "..\\UrlShortener - Copy (2)\\UrlShortenerService\\Migrations\\20241208075433_url.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2)\\UrlShortenerService\\Migrations\\20241208075433_url.cs",
+              "RelativeToolTip": "..\\UrlShortener - Copy (2)\\UrlShortenerService\\Migrations\\20241208075433_url.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:54:34.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthenticationServiceContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Data\\AuthenticationServiceContext.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Data\\AuthenticationServiceContext.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Data\\AuthenticationServiceContext.cs",
+              "RelativeToolTip": "AuthenticationService\\Data\\AuthenticationServiceContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:55:06.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AuthenticationService\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T07:14:54.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Models\\User.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Models\\User.cs",
+              "RelativeToolTip": "AuthenticationService\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T06:45:01.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthenticationService.csproj",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-08T07:05:27.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthenticationService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\appsettings.json",
+              "RelativeToolTip": "AuthenticationService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T06:55:39.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20241208071218_user.cs",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Migrations\\20241208071218_user.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Migrations\\20241208071218_user.cs",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\AuthenticationService\\Migrations\\20241208071218_user.cs",
+              "RelativeToolTip": "AuthenticationService\\Migrations\\20241208071218_user.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T07:12:18.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerGateway\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "UrlShortenerGateway\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Huong Giang\\Documents\\AMD\\UrlShortener - Copy (2) - Copy - Copy\\UrlShortenerGateway\\Properties\\launchSettings.json",
+              "RelativeToolTip": "UrlShortenerGateway\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-07T15:41:35.415Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

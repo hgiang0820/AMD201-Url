@@ -1,0 +1,2 @@
+C:\Users\Huong Giang\Documents\AMD\UrlShortener - Copy (2) - Copy\Frontend\obj\Debug\frontend.esproj.CoreCompileInputs.cache
+C:\Users\Huong Giang\Documents\AMD\UrlShortener - Copy (2) - Copy - Copy\Frontend\obj\Debug\frontend.esproj.CoreCompileInputs.cache
